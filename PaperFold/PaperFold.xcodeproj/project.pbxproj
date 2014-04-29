@@ -178,6 +178,11 @@
 			attributes = {
 				LastUpgradeCheck = 0440;
 				ORGANIZATIONNAME = "honcheng@gmail.com";
+				TargetAttributes = {
+					F8C45D8214DF822D00F12A1D = {
+						DevelopmentTeam = W3MPR8T977;
+					};
+				};
 			};
 			buildConfigurationList = F8C45D7D14DF822C00F12A1D /* Build configuration list for PBXProject "PaperFold" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -287,10 +292,13 @@
 		F8C45D9C14DF822D00F12A1D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Red Rocket Games, Inc";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Red Rocket Games, Inc";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "PaperFold/PaperFold-Prefix.pch";
 				INFOPLIST_FILE = "PaperFold/PaperFold-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "22DCDB6D-59B1-41FD-BCC9-A3B3F193FF95";
 				RUN_CLANG_STATIC_ANALYZER = YES;
 				WRAPPER_EXTENSION = app;
 			};
@@ -299,12 +307,13 @@
 		F8C45D9D14DF822D00F12A1D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: buUuk private limited";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Red Rocket Games, Inc";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Red Rocket Games, Inc";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "PaperFold/PaperFold-Prefix.pch";
 				INFOPLIST_FILE = "PaperFold/PaperFold-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "9806D7FE-4AB9-493C-AD7B-ED64E700C58C";
+				PROVISIONING_PROFILE = "22DCDB6D-59B1-41FD-BCC9-A3B3F193FF95";
 				RUN_CLANG_STATIC_ANALYZER = NO;
 				WRAPPER_EXTENSION = app;
 			};
