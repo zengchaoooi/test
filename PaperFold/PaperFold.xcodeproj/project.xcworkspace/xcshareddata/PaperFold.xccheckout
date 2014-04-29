@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7716693E-3F5D-4693-95A0-39A6E019FD97</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PaperFold</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B1BB631F-0882-4221-AE4A-F1A652C59F46</key>
+		<string>https://github.com/honcheng/PaperFold-for-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PaperFold/PaperFold.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B1BB631F-0882-4221-AE4A-F1A652C59F46</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/honcheng/PaperFold-for-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B1BB631F-0882-4221-AE4A-F1A652C59F46</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B1BB631F-0882-4221-AE4A-F1A652C59F46</string>
+			<key>IDESourceControlWCCName</key>
+			<string>optional-drag</string>
+		</dict>
+	</array>
+</dict>
+</plist>
